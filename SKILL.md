@@ -4,7 +4,7 @@ description: A methodology for writing stories about endurance rather than achie
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5110
+  version: 1.0.5111
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
